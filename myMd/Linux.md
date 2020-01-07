@@ -67,7 +67,7 @@
 
 ## vi/vim 编辑器
 
-![linuxPicture/vimStatus.png](Linux.assets/vimStatus.png)
+![vimStatus.png](./Linux.assets/vimStatus.png)
 
 ### 命令模式
 
