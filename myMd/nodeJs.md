@@ -44,11 +44,6 @@ node demo.js
 
 - 无web容器，路由自定义
 
-- js文件中写的相对路径是 相对于运行 node demo.js 时的路径，如
+  
 
-  ```
-  C:\Users\sunyh> node demo.js
-  ```
-
-  则 相对路径就是相对于 C:\Users\sunyh
 
